@@ -46,7 +46,7 @@ It can be used as:
 
 ## 💻 Live Preview
 
-🔗 [Click here to view the live site](https://saffiullah1314.github.io/Real-Estate-Single-Page-Responsive-Website/) <!-- Replace with actual deployment link -->
+🔗 [Click here to view the live site](https://saffiullah1314.github.io/Real-Estate) <!-- Replace with actual deployment link -->
 
 ---
 
