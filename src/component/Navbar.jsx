@@ -36,7 +36,7 @@ const Navbar = () => {
      viewport={{ once:true }}
       className={`${
         sticky ? 'bg-blue-900 transition-all duration-500' : ''
-      } w-auto navbar fixed top-0 left-0 right-0 z-10 flex justify-between items-center py-2 md:py-3 px-5 md:px-12 sm:px-10 lg:px-32`}
+      } w-100vw navbar fixed top-0 left-0 right-0 z-10 flex justify-between items-center py-2 md:py-3 px-5 md:px-12 sm:px-10 lg:px-32`}
     >
       <div>
         <img src={assets.logo} className="w-30" alt="logo" />
